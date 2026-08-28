@@ -27,4 +27,4 @@ The context (`window.mdt.ready`, `window.mdt.getContext()`, `window.mdt.onContex
 - `toast(message, options?)` - shows one of the MDT's own toasts
 - `confirm(options)` - shows the MDT's own confirm dialog and resolves with the officer's choice
 
-For the full type shape, see `src/types.d.ts` in the React, Vue, or Svelte templates. For the full API reference, see redutzu-mdt's own `docs/custom-pages.md`.
+For the full type shape, see `src/types.d.ts` in the React, Vue, or Svelte templates.
